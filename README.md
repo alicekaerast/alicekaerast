@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alicekaerast
+- 👀 I’m interested in infrastructure, platform and data
+- 💞️ I’m looking to collaborate on improving platform offerings
+- 📫 How to reach me - Slack
